@@ -1,5 +1,7 @@
 # Fraud_Detection
 
+![fraud detect img](https://miro.medium.com/max/1400/1*9LjCJPuRo52sPNxkvTX_WA.jpeg)
+
 ## Overview
 
 In this project, build a simple machine learning algorithms to predict whether a customer is fraud or not.
